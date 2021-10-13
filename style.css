@@ -1,0 +1,15 @@
+.logo {
+    float: left;
+}
+.header-nav .header-button {
+    float: right;
+
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+nav li {
+    display: inline-block;
+}
