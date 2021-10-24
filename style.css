@@ -63,20 +63,17 @@ nav li {
   font-weight: bold;
 }
 .banner {
-  background-image: url(../myfirstpage/img/image\ 3.png);
+  background-image: url(../myfirstpage/img/banner.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   padding-top: 500px;
   padding-bottom: 500px;
   position: relative;
-  
 }
 .text-banner {
-    
-position: absolute;
-
-text-align: right;
+  position: absolute;
+  text-align: right;
   bottom: 18px;
   right: 181px;
 }
