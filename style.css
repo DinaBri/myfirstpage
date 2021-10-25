@@ -116,3 +116,35 @@ input {
   bottom: 18px;
   right: 181px;
 }
+.guests {
+  padding-top: 21px;
+}
+.button {
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  width: 320px;
+  height: 44px;
+  color: white;
+  background: linear-gradient(#bc9cff, #8ba4f9);
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 20px;
+  border: none;
+  font-size: 12px;
+  margin-top: 31px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+.material-icons {
+  padding-right: 12px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+}
+.button__text{
+  flex:1;
+  display: flex;
+  justify-content: center;
+  transform: translateX(10px);
+}
